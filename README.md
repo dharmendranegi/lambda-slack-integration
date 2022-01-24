@@ -17,7 +17,7 @@ npm install
 
 ```
 
-### Update serverless.yml file in plugins section
+### Update lambda environments in serverless.yml
 
 ```yaml
 environment:
