@@ -1,0 +1,15 @@
+# Serverless Directories
+.serverless
+
+# IDE Directories
+**/.idea
+**/.DS_Store
+package-lock.json
+node_modules
+.DS_Store
+.vscode
+
+
+/InputData/
+
+.env

@@ -1,0 +1,26 @@
+{
+  "name": "snotify-slack",
+  "version": "1.0.0",
+  "description": "Slack notification via lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmendranegi/lambda-slack-integration.git"
+  },
+  "author": "dharmendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dharmendranegi/lambda-slack-integration/issues"
+  },
+  "homepage": "https://github.com/dharmendranegi/lambda-slack-integration#readme",
+  "devDependencies": {
+    "esbuild": "^0.14.11",
+    "serverless-esbuild": "^1.23.3"
+  },
+  "dependencies": {
+    "phin": "^3.6.1"
+  }
+}
