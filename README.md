@@ -10,7 +10,7 @@ Send notification to your Slack channel.
 
 See [Documentation](https://slack.com/intl/en-in/help/articles/115005265063-Incoming-webhooks-for-Slack).
 
-### Install
+### Install required packages
 
 ```bash
 npm install
