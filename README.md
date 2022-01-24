@@ -8,7 +8,7 @@ Send notification to your Slack channel.
 
 ### Create Slack Webhook Url
 
-See ![documentation] (https://slack.com/intl/en-in/help/articles/115005265063-Incoming-webhooks-for-Slack)
+See ![documentation](https://slack.com/intl/en-in/help/articles/115005265063-Incoming-webhooks-for-Slack)
 
 ### Install
 
