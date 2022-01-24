@@ -25,7 +25,7 @@ environment:
   SLACK_CHANNEL_NAME: #Your Slack channel name for notifications
 ```
 
-### Deploy to Aws account
+### Deploy to AWS account
 
 ```
 sls deploy
