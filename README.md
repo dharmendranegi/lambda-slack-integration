@@ -8,7 +8,7 @@ Send notification to your Slack channel.
 
 ### Create Slack Webhook Url
 
-See [documentation](https://slack.com/intl/en-in/help/articles/115005265063-Incoming-webhooks-for-Slack)
+See [Documentation](https://slack.com/intl/en-in/help/articles/115005265063-Incoming-webhooks-for-Slack)!
 
 ### Install
 
@@ -25,7 +25,7 @@ environment:
   SLACK_CHANNEL_NAME: #Your Slack channel name for notifications
 ```
 
-### Deploy to Aws Account
+### Deploy to Aws account
 
 ```
 sls deploy
